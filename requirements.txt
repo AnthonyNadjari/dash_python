@@ -1,0 +1,11 @@
+beautifulsoup4==4.11.1
+dash==2.7.0
+dash_bootstrap_components==1.2.1
+dash_bootstrap_templates==1.0.7
+dash_daq==0.5.0
+numpy==1.23.5
+pandas==1.5.2
+plotly==5.11.0
+python_dateutil==2.8.2
+selenium==4.7.2
+webdriver_manager==3.8.5
